@@ -1,0 +1,14 @@
+{
+  "name": "asynchronism_basic",
+  "version": "1.0.0",
+  "description": "Basic concepts on how callbacks, promises and Async Await work, making simple requests to an API and handling errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
